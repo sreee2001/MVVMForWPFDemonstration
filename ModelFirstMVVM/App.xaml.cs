@@ -1,6 +1,6 @@
 ﻿using System.Windows;
 
-namespace BasicMVVM
+namespace ModelFirstMVVM
 {
     /// <summary>
     /// Interaction logic for App.xaml
